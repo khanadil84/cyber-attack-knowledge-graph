@@ -104,5 +104,4 @@ RETURN p.name, v.name;
 ---
 
 ## Author
-
-Abu Bakarr
+Adil Khan
