@@ -1,0 +1,5 @@
+id,cvss,severity
+CVE-2023-23397,9.8,Critical
+CVE-2021-34527,8.8,High
+CVE-2020-1472,10.0,Critical
+CVE-2017-0144,9.3,Critical
